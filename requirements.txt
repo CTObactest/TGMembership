@@ -1,10 +1,36 @@
-python-dotenv
-gunicorn
-pymongo
-telebot
-coinbase-commerce
-requests
-PyMySQL
+# Flask and Web Framework
 flask
-flask-paypal
-flutterwave-python
+flask-pymongo
+gunicorn
+python-decouple
+
+# Telegram Bot
+python-telegram-bot
+
+# Database
+pymongo[srv]
+dnspython
+
+# Payment Integrations
+requests
+coinbase-commerce
+
+# Security and Validation
+cryptography
+python-jose
+marshmallow
+
+# Utilities
+python-dateutil
+pytz
+
+# Logging and Monitoring
+blinker
+
+# Development and Debugging
+flask-cors
+flask-limiter
+flask-migrate
+
+# Optional but Recommended
+pyyaml

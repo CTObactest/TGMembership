@@ -1,0 +1,10 @@
+python-dotenv
+gunicorn
+pymongo
+telebot
+coinbase-commerce
+requests
+PyMySQL
+flask
+flask-paypal
+flutterwave-python

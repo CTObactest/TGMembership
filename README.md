@@ -1,4 +1,4 @@
-# Telegram Membership Bot with Multiple Payment Methods
+# Telegram Membership Bot
 
 A Telegram bot that manages paid group memberships with support for Crypto (Coinbase Commerce), Card payments (Flutterwave), and PayPal. Built with Flask and MongoDB, deployed on Koyeb.
 
